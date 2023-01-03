@@ -15,3 +15,6 @@ Edge-Laucher V1.1.0:发布于2022.12.10
 Powered By Roy_SysNotFound
 请给我一个Star~谢谢
 我的B站:https://space.bilibili.com/1653312994
+###推荐使用V1.0.0 V1.1.0有巨大BUG 请谨慎使用
+###推荐使用V1.0.0 V1.1.0有巨大BUG 请谨慎使用
+                                       
